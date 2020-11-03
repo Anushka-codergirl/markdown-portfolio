@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Anushka Raj
+
+I'm an avid learner and a passionate coder.
