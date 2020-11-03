@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[!Anushka's image](https://anush-codergirl.neocities.org/images/me.png)
