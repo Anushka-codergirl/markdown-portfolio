@@ -1,4 +1,4 @@
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anush6633@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anushcodergirl@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/Anushka-raj/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Anushka-codergirl/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/AnushCodergirl/)
